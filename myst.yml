@@ -3,11 +3,11 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Arjun Avhale
+    - name: Shahraan Rahimbaksh
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://github.com/Arjunavhale/99.git # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/Contemporary-Physicslab/thermolab/issues # change this URL to your repository
+      url: https://github.com/Arjunavhale/99.git/issues # change this URL to your repository
